@@ -108,4 +108,4 @@ return function(self, p1)
             ConsoleInfo("Loadout Selected: \""..table.concat(TotalTowers, "\", \"").."\"")
         end
     end)
-end
+                end
