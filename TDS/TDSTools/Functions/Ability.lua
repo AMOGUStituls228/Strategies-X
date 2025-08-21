@@ -51,4 +51,4 @@ return function(self, p1)
         SetActionInfo("Ability")
         ConsoleInfo("Used Ability On Tower Index: "..Tower..", Type: \""..TowerType.."\", (Wave "..Wave..", Min: "..Min..", Sec: "..Sec..", InBetween: "..tostring(InWave)..")")
     end)
-end
+                end
