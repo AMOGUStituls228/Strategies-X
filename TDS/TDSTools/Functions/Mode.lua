@@ -25,4 +25,4 @@ return function(self, p1)
         end
         ConsoleInfo("Mode Selected: "..p1.Name)
     end)
-end
+    end
